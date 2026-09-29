@@ -1,8 +1,7 @@
-# 3) Python Script to Simulate Simple Attention Weights
-
+"""
+3) Python Script to Simulate Simple Attention Weights
 This script illustrates how attention weights are computed simply using dot-products and softmax, simulating a core idea behind Transformers.
-
-`python
+"""
 
 import numpy as np
 
